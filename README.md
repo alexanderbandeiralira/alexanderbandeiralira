@@ -3,6 +3,8 @@
 
 <h3> :woman: &nbsp;Olá, sou Alexander Lira </h3>
 
+Tenho 26 anos e sou Recifense aqui do Estado de Pernambuco onde moro até o momento. Também sou católico e sou bem tranquilo.
+
 <br/>
 
 <a href="https://github.com/alexanderbandeiralira">
@@ -10,6 +12,23 @@
 </a>
 
 <br/>
+
+
+<h3>  🔧 &nbsp;Ferramentas </h3>
+
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R Shiny" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+</p>
+
+
 
 
 <h3>  🎓 &nbsp;Formação </h3>
