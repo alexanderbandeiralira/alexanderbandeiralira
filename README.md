@@ -54,6 +54,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Alexander Lira](https://img.shields.io/badge/-alexanderbandeiralira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alexander-lira-3528241b7/](https://www.linkedin.com/in/alexander-lira-3528241b7/))](https://www.linkedin.com/in/alexander-lira-3528241b7/)
-[![Gmail Badge](https://img.shields.io/badge/-alexander.bandeira.2011@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexander.bandeira.2011@gmail.com)](mailto:alexander.bandeira.2011@gmail.com)
-[![GitHub Alexander Lira]( https://img.shields.io/github/followers/alexanderbandeiralira?label=follow&style=social)](https://github.com/alexanderbandeiralira)
+[![Linkedin: Alexander Lira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alexander-lira-3528241b7/](https://www.linkedin.com/in/alexander-lira-3528241b7/))](https://www.linkedin.com/in/alexander-lira-3528241b7/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexander.bandeira.2011@gmail.com)](mailto:alexander.bandeira.2011@gmail.com)
+[![GitHub Alexander Lira]( https://img.shields.io/github/followers/alexanderbandeiralira?label=Github&style=social)](https://github.com/alexanderbandeiralira)
