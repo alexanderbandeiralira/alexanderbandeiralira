@@ -11,46 +11,19 @@
 
 <br/>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3>  🎓 &nbsp;Formação </h3>
 
-**Aplicações e Dados**
+Atualmente, estou cursando o último ano de Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou o conhecimento do mundo da linguagem de programação.
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+<h3>  💼 &nbsp;Minhas Experiências </h3>
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+Sou Analista de BI na Traktor, onde atuo na modelagem e análise de dados para negócios de clientes, utilizando técnicas de machine learning, como modelos de classificação (XGBoost, Decision Tree, Gradient Boosting, etc.), testes paramétricos e não paramétricos, modelos de regressão linear, séries temporais e análise descritiva.
 
-**DevOps**
+Durante a graduação, atuei como Diretor da empresa Júnior Fisher Consultoria Estatística, coordenando toda a equipe de Diretores e tratando de assuntos jurídicos e contábeis. Além disso, participei tecnicamente de projetos de consultoria para clientes em todo o Brasil.
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+Também atuei como assistente de pesquisa por 14 meses no projeto "Análises Estatísticas e Informações de Processos do Fundo Previdenciário Reciprev (Fase 2)", utilizando principalmente R e R Shiny para análise de dados de fundos de investimento e criação de dashboards interativos. Além disso, fui bolsista PIBIC por 7 meses no projeto "Estatística Espacial de Áreas no Estudo da Taxa de Incidência do Covid-19", onde realizei análises de dados relacionados à taxa de incidência do Covid-19.
 
 
 
