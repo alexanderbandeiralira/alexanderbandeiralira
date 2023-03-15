@@ -1,7 +1,15 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=alexanderbandeiralira&color=006bed)
 
 <h3> :woman: &nbsp;Olá, sou Alexander Lira </h3>
+
+<br/>
+
+<a href="https://github.com/alexanderbandeiralira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanderbandeiralira&theme=dracula&show_icons=true" />
+</a>
+
+<br/>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
@@ -44,13 +52,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
 
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
