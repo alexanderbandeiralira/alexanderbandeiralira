@@ -3,7 +3,7 @@
 
 <h3> :man: &nbsp;Olá, sou Alexander Lira </h3>
 
-Tenho 26 anos e sou Recifense aqui do Estado de Pernambuco onde moro até o momento. Também sou católico e sou bem tranquilo.
+Tenho 26 anos e sou de Recife, Pernambuco. Me considero uma pessoa bem tranquila e sou católico.
 
 <br/>
 
