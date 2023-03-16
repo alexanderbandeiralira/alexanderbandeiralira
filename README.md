@@ -47,6 +47,8 @@ Durante a graduação, atuei como Diretor da empresa Júnior Fisher Consultoria 
 
 Também atuei como assistente de pesquisa por 14 meses no projeto "Análises Estatísticas e Informações de Processos do Fundo Previdenciário Reciprev (Fase 2)", utilizando principalmente R e R Shiny para análise de dados de fundos de investimento e criação de dashboards interativos. Além disso, fui bolsista PIBIC por 7 meses no projeto "Estatística Espacial de Áreas no Estudo da Taxa de Incidência do Covid-19", onde realizei análises de dados relacionados à taxa de incidência do Covid-19.
 
+Aqui está um dashboard simples que desenvolvi para controle de finanças:
+https://lookerstudio.google.com/u/0/reporting/55ba755d-3b1c-4dee-95dd-87aecaed66db/page/LxL5C
 
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
