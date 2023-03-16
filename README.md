@@ -36,7 +36,7 @@ Tenho 26 anos e sou Recifense aqui do Estado de Pernambuco onde moro até o mome
 
 <h3>  🎓 &nbsp;Formação </h3>
 
-Atualmente, estou cursando o último ano de Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou o conhecimento do mundo da linguagem de programação.
+Atualmente, estou cursando o último ano da graduação em Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou conhecimento no mundo da linguagem de programação.
 
 
 <h3>  💼 &nbsp;Minhas Experiências </h3>
