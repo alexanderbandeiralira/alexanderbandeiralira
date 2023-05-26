@@ -43,7 +43,7 @@ Atualmente, estou cursando o último ano da graduação em Estatística na UFPE,
 
 Sou Analista de BI na Traktor, onde atuo na modelagem e análise de dados para negócios de clientes, utilizando técnicas de machine learning, como modelos de classificação (XGBoost, Decision Tree, Gradient Boosting, etc.), testes paramétricos e não paramétricos, modelos de regressão linear, séries temporais e análise descritiva.
 
-Durante a graduação, atuei como Diretor da empresa Júnior Fisher Consultoria Estatística, coordenando toda a equipe de Diretores e tratando de assuntos jurídicos e contábeis. Além disso, participei tecnicamente de projetos de consultoria para clientes em todo o Brasil.
+Durante a graduação, atuei como CEO da empresa Júnior Fisher Consultoria Estatística, coordenando toda a equipe de Diretores e tratando de assuntos jurídicos e contábeis. Além disso, participei tecnicamente de projetos de consultoria para clientes em todo o Brasil.
 
 Também atuei como assistente de pesquisa por 14 meses no projeto "Análises Estatísticas e Informações de Processos do Fundo Previdenciário Reciprev (Fase 2)", utilizando principalmente R e R Shiny para análise de dados de fundos de investimento e criação de dashboards interativos. Além disso, fui bolsista PIBIC por 7 meses no projeto "Estatística Espacial de Áreas no Estudo da Taxa de Incidência do Covid-19", onde realizei análises de dados relacionados à taxa de incidência do Covid-19.
 
