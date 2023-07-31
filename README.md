@@ -36,12 +36,12 @@ Tenho 26 anos e sou de Recife, Pernambuco. Me considero uma pessoa bem tranquila
 
 <h3>  🎓 &nbsp;Formação </h3>
 
-Atualmente, estou cursando o último ano da graduação em Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou conhecimento no mundo da linguagem de programação.
+Atualmente, estou cursando o último período da graduação em Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou conhecimento no mundo da linguagem de programação.
 
 
 <h3>  💼 &nbsp;Minhas Experiências </h3>
 
-Sou Analista de BI na Traktor, onde atuo na modelagem e análise de dados para negócios de clientes, utilizando técnicas de machine learning, como modelos de classificação (XGBoost, Decision Tree, Gradient Boosting, etc.), testes paramétricos e não paramétricos, modelos de regressão linear, séries temporais e análise descritiva.
+Sou Analista de Dados e BI na Traktor, onde atuo na modelagem e análise de dados para negócios de clientes, utilizando técnicas de machine learning, como modelos de classificação (XGBoost, Decision Tree, Gradient Boosting, etc.), testes paramétricos e não paramétricos, modelos de regressão linear, séries temporais e análise descritiva.
 
 Durante a graduação, atuei como CEO da empresa Júnior Fisher Consultoria Estatística, coordenando toda a equipe de Diretores e tratando de assuntos jurídicos e contábeis. Além disso, participei tecnicamente de projetos de consultoria para clientes em todo o Brasil.
 
