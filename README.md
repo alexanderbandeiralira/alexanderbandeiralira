@@ -1,9 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=alexanderbandeiralira&color=006bed)
 
-<h3> :man: &nbsp;Olá, sou Alexander Lira </h3>
+<h3> :man: &nbsp;Hi i'm Alexander Lira </h3>
 
-Recifense de 29 anos
+I'm from Recife
 
 <br/>
 
@@ -14,7 +14,7 @@ Recifense de 29 anos
 <br/>
 
 
-<h3>  🔧 &nbsp;Ferramentas </h3>
+<h3>  🔧 &nbsp;Tools </h3>
 
 
 <p align="left">
@@ -34,27 +34,39 @@ Recifense de 29 anos
 
 
 
-<h3>  🎓 &nbsp;Formação </h3>
+# Hi there, I'm Alexander! 👋
 
-Graduado em Estatística na UFPE, uma graduação que me direcionou completamente para o universo dos dados, área pela qual sou completamente apaixonado. Além disso, possuo formação técnica em programação, curso que realizei durante o ensino médio e que me proporcionou conhecimento no mundo da linguagem de programação.
+I am a **𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁, 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 & 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗶𝗮𝗻** with **𝟲 𝘆𝗲𝗮𝗿𝘀** of experience in turning complex datasets into strategic assets. Beyond the numbers, I am a true technology enthusiast who thrives on curiosity and the constant evolution of the data world.
 
+### 💡 My Passion & Mindset
 
-<h3>  💼 &nbsp;Minhas Experiências </h3>
+I don't just work with data—I'm genuinely fascinated by what it can do. My background in **Statistics from UFPE** gives me the mathematical rigor I need, but my "hacker" spirit is what drives me to explore new frontiers. I love the "spark" of discovering a new pattern or building a solution that makes someone's life easier.
 
-
-Sou Analista de Dados Pleno na Ailos e através do Python, R, PySpark e SQL, extraio insights valiosos de diversas áreas da cooperativa de crédito, como crédito, seguros e outras. Minha expertise em Machine Learning me permite construir modelos preditivos, enquanto ferramentas como Power BI e Looker Studio facilitam a comunicação clara e impactante dos resultados. Busco sempre a melhor solução para cada desafio, impulsionado pela crença no poder da análise de dados para o sucesso da Ailos.
-
-Fui Analista de Dados e BI na Traktor, onde atuo na modelagem e análise de dados para negócios de clientes, utilizando técnicas de machine learning, como modelos de classificação (XGBoost, Decision Tree, Gradient Boosting, etc.), testes paramétricos e não paramétricos, modelos de regressão linear, séries temporais e análise descritiva.
-
-Durante a graduação, atuei como CEO da empresa Júnior Fisher Consultoria Estatística, coordenando toda a equipe de Diretores e tratando de assuntos jurídicos e contábeis. Além disso, participei tecnicamente de projetos de consultoria para clientes em todo o Brasil.
-
-Também atuei como assistente de pesquisa por 14 meses no projeto "Análises Estatísticas e Informações de Processos do Fundo Previdenciário Reciprev (Fase 2)", utilizando principalmente R e R Shiny para análise de dados de fundos de investimento e criação de dashboards interativos. Além disso, fui bolsista PIBIC por 7 meses no projeto "Estatística Espacial de Áreas no Estudo da Taxa de Incidência do Covid-19", onde realizei análises de dados relacionados à taxa de incidência do Covid-19.
-
-Aqui está um dashboard simples que desenvolvi para controle de finanças:
-https://lookerstudio.google.com/u/0/reporting/55ba755d-3b1c-4dee-95dd-87aecaed66db/page/LxL5C
+**What truly excites me:**
+* 🤖 **Machine Learning & Neural Networks:** I enjoy diving into model architectures and understanding the "why" behind the predictions.
+* ✨ **Generative AI & LLMs:** I'm an active explorer of **Gemini** and **ChatGPT**. I love building **intelligent automations** and custom tools to optimize workflows and scale productivity.
+* 🛠️ **Problem Solving:** Whether it's a complex SQL query or a scalable **PySpark** pipeline, I find joy in creating elegant, efficient solutions to messy problems.
+* 📊 **Data Storytelling:** I believe data is only as powerful as the story it tells. I bridge the gap between technical metrics and business strategy.
 
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+### 🚀 Technical Toolbox
+
+**𝗗𝗮𝘁𝗮 𝗦𝘁𝗮𝗰𝗸**
+* **Languages:** 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗦𝗤𝗟, 𝗣𝘆𝗦𝗽𝗮𝗿𝗸, 𝗥 (𝗦𝗵𝗶𝗻𝘆), LaTeX.
+* **AI & Innovation:** **LLMs (Gemini/GPT)**, Neural Networks, Prompt Engineering, and AI-driven Automations.
+* **Cloud & Big Data:** **𝗗𝗮𝘁𝗮𝗯𝗿𝗶𝗰𝗸𝘀**, AWS, Azure, Metabase.
+* **Modeling:** **𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴** (XGBoost, Random Forest, Gradient Boosting), Regression, Time Series, and Spatial Statistics.
+* **Visualization:** **𝗣𝗼𝘄𝗲𝗿 𝗕𝗜**, **𝗟𝗼𝗼𝗸𝗲𝗿 𝗦𝘁𝘂𝗱𝗶𝗼**, ggplot2, R Markdown.
+
+**𝗘𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲**
+* **Financial Intelligence:** Strategic modeling for Credit, Insurance, and Pension Funds.
+* **Marketing Analytics:** Media budget optimization (MMM) and ROI analysis.
+* **Product Strategy:** User behavior analysis and NPS studies.
+
+
+### 📫 Let's Connect!
+
+I'm always open to discussing new technologies, AI automations, or interesting data challenges. 
 
 [![Linkedin: Alexander Lira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/alexander-lira-3528241b7/](https://www.linkedin.com/in/alexander-lira-3528241b7/))](https://www.linkedin.com/in/alexander-lira-3528241b7/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexander.bandeira.2011@gmail.com)](mailto:alexander.bandeira.2011@gmail.com)
