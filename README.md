@@ -5,14 +5,6 @@
 
 I'm from Recife
 
-<br/>
-
-<a href="https://github.com/alexanderbandeiralira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanderbandeiralira&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
 
 <h3>  🔧 &nbsp;Tools </h3>
 
